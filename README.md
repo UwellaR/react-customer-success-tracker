@@ -9,12 +9,19 @@ Prerequisites:
 Things needed to install the software and how to install them.
 
 Node.js
+
 Heroku account to store uploaded information and details
+
 Cloudinary account to store uploaded photos
+
 Express.js
+
 Multer
+
 Body Parser
+
 PostgreSQL
+
 
 Installing:
 Step by step series of instructions that tell you how to get a development environment running
@@ -55,9 +62,13 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 Versioning:
 1.0
+
 Authors: 
 Uwella Rubuga 
+
 Licence: 
 Private
+
 Acknowledgments: 
 Harvey Kadyanji - Supervised the project
+
