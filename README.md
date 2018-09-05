@@ -6,7 +6,7 @@ Getting Started:
 
 Prerequisites:
 
-Things needed to install the software and how to install them.
+Things needed to install the software and how to install them:
 
 Node.js
 
@@ -26,25 +26,25 @@ PostgreSQL
 Installing:
 Step by step series of instructions that tell you how to get a development environment running
 
-Installing Node.js
+Installing Node.js:
 Install the node.js package from the Node.js website. To test and run js files through Node, use any command line tool.
 
-Installing Heroku
+Installing Heroku:
 Node and npm must have been installed already before installing Heroku (see step up). Then download and install Heroku from the Heroku website or install manually by running  $ npm install -g heroku  which is mostly recommended. Then type in your login credentials. 
 
-Installing Cloudinary
+Installing Cloudinary:
 Node.js has to be installed already. Run $ npm install cloudinary  on the command line tool then save the generated cloud_name, api_key and api_secret for configuration. 
 
-Installing Express.js
+Installing Express.js:
 Node.js has to be installed already. Run $ npm install express --save on the command line tool in the app directory that you are creating. 
 
-Installing Multer
+Installing Multer:
 Node.js has to be installed already. Run $ npm install --save multer  on the command line tool in the app directory that you are creating. 
 
-Installing Body Parser
+Installing Body Parser:
 Node.js has to be installed already. Run $ npm install  body-parser  on the command line tool in the app directory that you are creating. 
 
-Installing PostgreSQL
+Installing PostgreSQL:
 Download and install PostgreSQL from the PostgreSQL website. Then fill in the password credentials and the port number (which can be any number). 
 
 
@@ -55,6 +55,7 @@ https://ogugu-customer-service.herokuapp.com/
 Built with:
 
 React - From the user side
+
 Node - From the server side
 
 Contributing:
